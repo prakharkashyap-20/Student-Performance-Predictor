@@ -5,6 +5,10 @@ A Machine Learning web application that predicts whether a student is likey to p
 
 This project uses the UCI Student Performance dataset.
 
+## Demo
+
+![Student Performance Predictor](screenshots/app-screenshot.png)
+
 ## features
 - G1 (first period grade)
 - G2 (second period grade)
