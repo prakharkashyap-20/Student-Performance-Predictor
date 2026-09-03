@@ -7,7 +7,7 @@ This project uses the UCI Student Performance dataset.
 
 ## Demo
 
-![Student Performance Predictor](screenshots/app-screenshot.png)
+![Student Performance Predictor](screenshots/app-screenshot2.png)
 
 ## features
 - G1 (first period grade)
